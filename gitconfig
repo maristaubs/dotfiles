@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mari.staub@gmail.com
+	name = Mariana Staub
