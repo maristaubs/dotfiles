@@ -88,3 +88,6 @@ fi
 
 # Hook direnv but only if direnv is installed
 if (( $+commands[direnv] )); then eval "$(direnv hook zsh)"; fi
+alias mrstb='cd ~/Documents/mrstb && claude'
+alias candidaturas='cd ~/Documents/candidaturas && claude'
+export PATH="$HOME/.local/bin:$PATH"

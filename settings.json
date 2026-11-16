@@ -84,4 +84,13 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "files.autoSave": "afterDelay",
+    "workbench.editorAssociations": {
+      "*.md": "vscode.markdown.preview.editor"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Monokai Pro Light",
+    "extensions.supportAgentsWindow": {
+      "monokai.theme-monokai-pro-vscode": true
+    },
 }
